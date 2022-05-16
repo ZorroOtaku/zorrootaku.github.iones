@@ -1,0 +1,6 @@
+(function()(
+
+    const sliders = [...document]
+
+
+));
